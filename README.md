@@ -1,4 +1,10 @@
-vagrant-lamp
+Vagrant-LAMP
 ============
 
-Proyecto Linux Apache Mysql Php para Vagrant.
+Proyecto de maquina virtual para Vagrant con: 
+ - Linux
+ - Apache
+ - Mysql
+ - PHP
+Provisions
+ - bootstrap.sh
