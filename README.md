@@ -7,6 +7,7 @@ Proyecto de maquina virtual para Vagrant con:
  - Apache
  - Mysql
  - PHP
+ - PHPMyAdmin
 
 ============
 Provisions
