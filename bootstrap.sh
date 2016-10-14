@@ -1,9 +1,10 @@
 #Buscamos actualizaciones
 sudo apt-get update
+sudo apt-get -y upgrade
 
 #Instalamos Apache
 echo "Install Apache"
-sudo apt-get install -y apache2
+sudo apt-get install -y apache2 apache2-doc apache2-utils
 
 #Instalamos PHP5
 echo "Install PHP5"

@@ -1,7 +1,7 @@
 Include /etc/phpmyadmin/apache.conf
 <VirtualHost *:80>
 	ServerAdmin karloxmartinez@gmail.com
-
+	ServerName localhost
 	DocumentRoot /var/www
 	<Directory />
 		Options FollowSymLinks
